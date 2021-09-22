@@ -1,11 +1,11 @@
 ### Qns
 
-- [Q1: k-Nearest Neighbor classifier (20 points)](#q1-k-nearest-neighbor-classifier-20-points)
-- [Q2: Training a Support Vector Machine (25 points)](#q2-training-a-support-vector-machine-25-points)
-- [Q3: Implement a Softmax classifier (20 points)](#q3-implement-a-softmax-classifier-20-points)
-- [Q4: Two-Layer Neural Network (25 points)](#q4-two-layer-neural-network-25-points)
-- [Q5: Higher Level Representations: Image Features (10 points)](#q5-higher-level-representations-image-features-10-points)
-- [Submitting your work](#submitting-your-work)
+- [Q1: k-Nearest Neighbor classifier](https://github.com/Yuxinn-J/CS231n/blob/main/assignment1/knn.ipynb) 🤣
+  [[Notes]](https://github.com/Yuxinn-J/CS231n/blob/main/assignment1/Q1.%20KNN.pdf)
+- [Q2: Training a Support Vector Machine](https://github.com/Yuxinn-J/CS231n/blob/main/assignment1/svm.ipynb)
+- [Q3: Implement a Softmax classifier](https://github.com/Yuxinn-J/CS231n/blob/main/assignment1/softmax.ipynb)
+- [Q4: Two-Layer Neural Network](https://github.com/Yuxinn-J/CS231n/blob/main/assignment1/two_layer_net.ipynb)
+- [Q5: Higher Level Representations: Image Features](https://github.com/Yuxinn-J/CS231n/blob/main/assignment1/features.ipynb)
 
 ### Goals
 
