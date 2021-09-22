@@ -1,11 +1,12 @@
 ### Qns
 
-- [Q1: k-Nearest Neighbor classifier](https://github.com/Yuxinn-J/CS231n/blob/main/assignment1/knn.ipynb) 🤣
+- [x] [Q1: k-Nearest Neighbor classifier](https://github.com/Yuxinn-J/CS231n/blob/main/assignment1/knn.ipynb) 🤣
   [[Notes]](https://github.com/Yuxinn-J/CS231n/blob/main/assignment1/Q1.%20KNN.pdf)
-- [Q2: Training a Support Vector Machine](https://github.com/Yuxinn-J/CS231n/blob/main/assignment1/svm.ipynb)
-- [Q3: Implement a Softmax classifier](https://github.com/Yuxinn-J/CS231n/blob/main/assignment1/softmax.ipynb)
-- [Q4: Two-Layer Neural Network](https://github.com/Yuxinn-J/CS231n/blob/main/assignment1/two_layer_net.ipynb)
-- [Q5: Higher Level Representations: Image Features](https://github.com/Yuxinn-J/CS231n/blob/main/assignment1/features.ipynb)
+- [x] [Q2: Training a Support Vector Machine](https://github.com/Yuxinn-J/CS231n/blob/main/assignment1/svm.ipynb) 🤓
+  [[Notes]](https://github.com/Yuxinn-J/CS231n/blob/main/assignment1/Q2.%20SVM.pdf)
+- [ ] [Q3: Implement a Softmax classifier](https://github.com/Yuxinn-J/CS231n/blob/main/assignment1/softmax.ipynb)
+- [ ] [Q4: Two-Layer Neural Network](https://github.com/Yuxinn-J/CS231n/blob/main/assignment1/two_layer_net.ipynb)
+- [ ] [Q5: Higher Level Representations: Image Features](https://github.com/Yuxinn-J/CS231n/blob/main/assignment1/features.ipynb)
 
 ### Goals
 
