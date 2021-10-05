@@ -15,7 +15,7 @@ This repository contains my solutions and assignment notes for [CS231n Stanford 
 - [ ] Q2: Batch Normalization
 - [ ] Q3: Dropout
 - [ ] Q4: Convolutional Networks
-- [ ] Q5: PyTorch / TensorFlow on CIFAR-10
+- [x] [Q5: PyTorch on CIFAR-10](https://github.com/Yuxinn-J/CS231n/blob/main/assignment2/PyTorch.ipynb) 😚
 
 ### Assignment 3:
 - [ ] Q1: Image Captioning with Vanilla RNNs.
