@@ -22,4 +22,4 @@ This repository contains my solutions and assignment notes for [CS231n Stanford 
 - [ ] Q2: Image Captioning with LSTMs
 - [ ] Q3: Network Visualization: Saliency maps, Class Visualization, and Fooling Images
 - [ ] Q4: Style Transfer
-- [ ] Q5: Generative Adversarial Networks
+- [x] [Q5: Generative Adversarial Networks](https://github.com/Yuxinn-J/CS231n/blob/main/assignment3/GANs-PyTorch.ipynb) 👩‍🍼
